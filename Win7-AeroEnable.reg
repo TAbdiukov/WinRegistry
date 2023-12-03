@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM]
+Composition = 1
+CompositionPolicy = 2
+UseMachineCheck = 0
+Blur = 0
+Animations = 0
+;
+; Restart the computer.
+; Turn on the Aero Interface as one would normally do:
+; Right click on the desktop and select “Personalize”.
+; Choose “Window Color and Appearance”.
+; Click the blue link titled “Open classic appearance properties for more color options”.
+; Change the color-scheme from “Windows Vista Basic” to “Windows Aero”.
