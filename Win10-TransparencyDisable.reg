@@ -1,4 +1,6 @@
 Windows Registry Editor Version 5.00
+; Windows 10 (era) - Transparency Disable
+; Without activation, immediate change
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
 "EnableTransparency"=dword:00000000
