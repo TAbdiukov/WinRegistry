@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Alcatel\One Touch PC Suite 3\Content Manager]
+"EnableJava"=dword:00000001
+"EnableXHTML"=dword:00000001
+"EnableSkinAndLookTransfer"=dword:00000001
