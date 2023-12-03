@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+; Enable undocumented resolutions (to get games and software running) on many netbooks
+; resolutions may only work in scaled mode
+; Reboot is required
+; Compatibility: Windows 7+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000]
+"Display0_DownScalingSupported"=dword:00000001
+"Display1_DownScalingSupported"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class{4D36E968-E325-11CE-BFC1-08002BE10318}\0000]
+"Display0_DownScalingSupported"=dword:00000001
+"Display1_DownScalingSupported"=dword:00000001
