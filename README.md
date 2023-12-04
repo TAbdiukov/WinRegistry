@@ -8,3 +8,11 @@ Windows Registry tweaks.
 * **Win7-AeroEnable.reg** –  Force enable Aero on Windows 7. Afterwards: Restart the computer. Turn on the Aero Interface as one would normally do: Right click on the desktop and select “Personalize”. Choose “Window Color and Appearance”. Click the blue link titled “Open classic appearance properties for more color options”. Change the color-scheme from “Windows Vista Basic” to “Windows Aero”.
 * **Win10-TransparencyDisable.reg** and **Win10-TransparencyEnable.reg** – Windows 10 (era) - Transparency Disable/Enable. Without activation, immediate change.
 * **WinUpdate-BreakReboot.reg** – Breaks reboot requirement after updates. Can affect long-term system stability. Use as last resort.
+
+## See also
+*Tweaking and patching*  
+
+* [TAbdiukov/PPSSPP-patches](https://github.com/TAbdiukov/PPSSPP-patches) – My cheats, fixes and workarounds for PPSSPP games and apps.
+* [TAbdiukov/Ikejime](https://github.com/TAbdiukov/Ikejime) – Various patches for Windows OS and apps.
+* [TAbdiukov/Ikejime-Private](https://github.com/TAbdiukov/Ikejime-Private) – Private patches.
+* [TAbdiukov/WinRegistry](https://github.com/TAbdiukov/WinRegistry) – (CLI) Fast engine to skew (or shear) text by a desired angle, emulating handwriting.
