@@ -12,7 +12,7 @@ Windows Registry tweaks.
 ## See also
 *Tweaking and patching,*  
 
-* [TAbdiukov/PPSSPP-patches](https://github.com/TAbdiukov/PPSSPP-patches) – My cheats, fixes, and workarounds for PPSSPP games and apps.
+* [TAbdiukov/PPSSPP-patches](https://github.com/TAbdiukov/PPSSPP-patches) – My romhacks, fixes, and workarounds for PPSSPP games and apps.
 * [TAbdiukov/Ikejime](https://github.com/TAbdiukov/Ikejime) – Patches for desktop libraries and apps.
 * [TAbdiukov/Ikejime-Private](https://github.com/TAbdiukov/Ikejime-Private) – <ins>Private</ins> patches.
 * **<ins>TAbdiukov/WinRegistry</ins>** – Windows Registry tweaks.
