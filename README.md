@@ -10,7 +10,7 @@ Windows Registry tweaks.
 * **WinUpdate-BreakReboot.reg** – Breaks reboot requirement after updates. Can affect long-term system stability. Use as last resort.
 
 ## See also
-*Tweaking and patching,*  
+*Tweaking and patching,*
 
 * [TAbdiukov/PPSSPP-patches](https://github.com/TAbdiukov/PPSSPP-patches) – My romhacks, fixes, and workarounds for PPSSPP games and apps.
 * [TAbdiukov/Ikejime](https://github.com/TAbdiukov/Ikejime) – Patches for desktop libraries and apps.
