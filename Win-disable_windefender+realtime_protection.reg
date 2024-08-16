@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 ; Disables Windows Defender + it's Real-Time Protection
-; Compatibility: Windows 8.1/10/11
+; Compatibility: Windows 7/8.1/10/11
 ; 'Tamper Protection' must be off.
 ; May require a reboot
 
